@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+
+@font-face {
+    font-family: 'Gothic';
+    src: url("C:/Users/imano/imanol-app/src/assets/fonts/Jacquard24-Regular.ttf");
+
+}
+@font-face {
+    font-family: 'Lugrasimo';
+    src: url("C:/Users/imano/imanol-app/src/assets/fonts/Lugrasimo-Regular.ttf")
+}
+@font-face {
+    font-family: 'Recta';
+    src: url("C:/Users/imano/imanol-app/src/assets/fonts/BebasNeue-Regular.ttf")
+}
